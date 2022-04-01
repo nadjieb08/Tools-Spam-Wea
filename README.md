@@ -4,8 +4,8 @@
 > pkg install bash -y
 > pkg install jq -y
 > pkg install git -y
-> git clone github najib
-> cd nadjieb
+> git clone https://github.com/nadjieb08/Tools-Spam-Wea
+> cd Tools-Spam-Wea
 > bash spam-wa.sh
 ```
 # Cara Spamnya
