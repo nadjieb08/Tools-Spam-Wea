@@ -27,7 +27,7 @@
 - My parents
 - All Friends
 - All Contributors
-- Mr Droid Official [`Mr Droid Official`](https://youtube.com/channel/UCb12spDJJH7-6cNOIWDtMpg)
+- [`Mr Droid Official`](https://youtube.com/channel/UCb12spDJJH7-6cNOIWDtMpg)
 
 ## ❗ Warning
 Ini Baru Tahap Beta!
