@@ -2,7 +2,7 @@
 
 ## `Apa ini ?`
 <p align="center">
-<a href="https://github.com/nadjieb08?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"
+<a href="https://github.com/nadjieb08?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/nadjieb08?color=red&style=flat-square"
 </p>
 <p align='center'>
     </p>
